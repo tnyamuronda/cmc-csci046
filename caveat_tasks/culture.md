@@ -12,9 +12,9 @@ It will also help you pass the [culture fit test](https://triplebyte.com/blog/wh
 
 ## Task
 
-You must earn 4 points by watching/reading the shows/books below.
+You must earn `2**2` points by watching/reading the shows/books below.
 Each point should take at most 2 hours to complete,
-so you should be able to finish this task in under 8 hours.
+so you should be able to finish this task in under `2**3` hours.
 
 **Watching (non-fiction):** (1 point each)
 
@@ -23,7 +23,7 @@ so you should be able to finish this task in under 8 hours.
    with many interviews of the "founding fathers" of the movement.
 
 1. *The Internet's Own Boy: The Story of Aaron Swartz* (2014), available on [youtube](https://www.youtube.com/watch?v=9vz06QO3UkQ).
-   This documentary describes how A
+   This documentary describes how [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz), the co-founder of Reddit and an important part of other great projects, sought to challenge academic paywalls and spread civic awareness.
 
 1. *CitizenFour* (2014) (available for free from the [Internet Archive](https://archive.org/details/Citizen.Four2014)).
    This is a documentary about how and why Edward Snowden released the documents about the NSA and what those documents revealed.
@@ -88,7 +88,7 @@ so you should be able to finish this task in under 8 hours.
 
 ## Submission
 
-Reply to [this github issue](https://github.com/mikeizbicki/cmc-csci143/issues/84) with a list of the tasks that you completed.
+Reply to [this github issue](https://github.com/mikeizbicki/cmc-csci046/issues/450) with a list of the tasks that you completed.
 For each task, you'll need to write a 1-2 sentence summary of what you learned/liked/disliked about the task.
 
 > **NOTE:**
